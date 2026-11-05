@@ -1,0 +1,6 @@
+{
+  "name": "Logistics AI – Akıllı Lojistik Hat Planlama",
+  "description": "Bağımsız veri motoruna sahip, Cross Dock ve direkt hat optimizasyonu yapan profesyonel akıllı lojistik hat planlama ve araç optimizasyon sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
